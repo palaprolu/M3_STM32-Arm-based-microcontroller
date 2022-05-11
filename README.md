@@ -8,3 +8,6 @@
 
 
 [![BULD LINUX](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/BUILD%20LINUX%20main.yml/badge.svg)](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/BUILD%20LINUX%20main.yml)
+
+
+[![GIT INSPECTOR](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/GIT%20INSPECTOR%20main.yml/badge.svg)](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/GIT%20INSPECTOR%20main.yml)
