@@ -14,3 +14,6 @@
 
 
 [![CPP CHECK](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/CPP%20CHECK%20main.yml/badge.svg)](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/CPP%20CHECK%20main.yml)
+
+
+[![DYNAMIC CHECK](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/DYNAMIC%20CHECKmain.yml/badge.svg)](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/DYNAMIC%20CHECKmain.yml)
