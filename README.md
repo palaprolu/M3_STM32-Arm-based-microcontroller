@@ -23,3 +23,6 @@
 
 
 [![VALGRIND](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/VALGRIND%20main.yml/badge.svg)](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/VALGRIND%20main.yml)
+
+
+[![UNIT TESTING](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/UNIT%20TESTING%20main.yml/badge.svg)](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/UNIT%20TESTING%20main.yml)
