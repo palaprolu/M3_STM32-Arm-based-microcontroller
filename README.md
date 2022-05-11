@@ -1,5 +1,9 @@
 # M3_STM32-Arm-based-microcontroller
 
+This firmware is a hacky mishmash of VW and Nissan CAN code. It talks to the Nissan BMS (aka LBC) to find out cell voltages and such. It also produces all messages needed for satisfying the various controllers in newer VW cars (my testbed is a 2004 Touran). That means all warning lights are off. It also implements the ChaDeMo protocol and has been successfully tested on various fast chargers.
+
+
+
 
 
 [![CI](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/CI%20main.yml/badge.svg)](https://github.com/palaprolu/M3_STM32-Arm-based-microcontroller/actions/workflows/CI%20main.yml)
