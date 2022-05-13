@@ -15,5 +15,11 @@ STM32 is a family of 32-bit microcontroller integrated circuits by STMicroelectr
 
 ## USE OF STM32 MICROCONTROLLER :- 
 
-These microcontrollers are used in a variety of applications, from simple printers to complex circuit boards in vehicles. As a result, the technical know how of developing firmware and embedded systems using STM32 microcontrollers are an essential skill-set for an engineer in electronics and communications.
+These microcontrollers are used in a variety of applications, from simple printers to complex circuit boards in vehicles. As a result, the technical know how of developing firmware and embedded systems using STM32 microcontrollers are an essential skill-set for an engineer in electronics and communications
+
+
+## PICTURE OF STM32 MICROCONTROLLER :- 
+
+![image](https://user-images.githubusercontent.com/101261412/168250577-a8b6b5e4-e2ff-43d5-a637-2a3e1f26c3cb.png)
+
 
