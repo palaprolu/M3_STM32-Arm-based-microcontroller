@@ -1,4 +1,6 @@
+# WIPER CONTROL SYSTEM :- 
 
+The rain sensor is placed over the windshield and the servo motor powers the wiper blades, which are directly connected to the motor. When the signal is received, the arduino Uno microcontroller is attached to all of the three components, namely, the rain sensor, the servo motor and the LCD. The microcontroller unit is placed inside the car and is attached to a dc source; The LCD is also in the car near the driver’s seat. It displays the speed of the wiper blades along with the intensity of the falling rain.
 
 
 
